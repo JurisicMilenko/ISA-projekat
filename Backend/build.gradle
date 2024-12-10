@@ -18,6 +18,10 @@ repositories {
 }
 
 dependencies {
+<<<<<<< HEAD
+=======
+	implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+>>>>>>> d42f0352b4b14483ef6f67aac9346038b2361bcd
 	implementation 'org.springframework.boot:spring-boot-starter-web'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 	testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
